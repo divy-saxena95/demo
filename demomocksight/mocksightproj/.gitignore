@@ -1,0 +1,19 @@
+### Vue ###
+*/node_modules
+
+
+### IntelliJ IDEA ###
+/.idea
+*/.idea
+*.iws
+*.iml
+*.ipr
+### Spring Boot ###
+*/target
+!.mvn/wrapper/maven-wrapper.jar
+
+## Sonar
+sonar-project.properties
+*/.scanner*
+
+
